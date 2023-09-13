@@ -3,10 +3,15 @@ UVCE MARVEL inmoov robot hand
 
 contributors
 1.Prajwal (Coordinator)
+
 2.Ashish
+
 3.Pawan
+
 4.Veeksha
+
 5.Shriram
+
 6.Srinivasa M S
 
 
