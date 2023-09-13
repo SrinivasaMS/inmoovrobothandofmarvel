@@ -23,7 +23,7 @@ int pinkyservopin = 25;
 typedef struct struct_message {
 int a;
 int b;
-int c;
+int c; 
 int d;
 int e;
 } struct_message;
