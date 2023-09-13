@@ -18,7 +18,13 @@ void setup() {
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
   
-  myServo.attach(9);  // attaches the servo on pin 9 to the servo object
+  thumbServo.attach(2); 
+  indexServo.attach(3);
+  middleServo.attach(4);
+  ringServo.attach(5);
+  pinkyServo.attach(6);
+  
+  // attaches the servo on pin 9 to the servo object
 }
 
 void loop() {
