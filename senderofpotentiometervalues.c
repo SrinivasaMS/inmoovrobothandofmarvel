@@ -17,7 +17,7 @@ int analogthumb;
 int analogindex;
 int analogmiddle;
 int analogring;
-int analogpinky;
+int analogpinky; 
 
 int ADC_Max = 4096; 
 
