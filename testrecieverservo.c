@@ -1,4 +1,4 @@
-#include <ESP32_Servo.h>
+#include <ESP32Servo.h>
 
 //Receiver Code (Hand) 
 #include <esp_now.h>
